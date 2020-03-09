@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RSSNews</string>
+    <string name="theme_pref_key">theme_pref</string>
+</resources>
